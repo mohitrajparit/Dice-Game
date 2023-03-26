@@ -31,9 +31,22 @@ p {
 img {
   width: 80%;
 }
-
+.btn{
+  color: aqua;
+  text-align: center;
+  margin-top: 1%;
+  margin-bottom: 2%;
+  font-family: 'Indie Flower', cursive;
+  font-weight: bolder;
+  background-color: rgb(75, 73, 73);
+  position: absolute;
+  left: 46%;
+  height: 8%;
+  font-size: 1.2rem;
+  border-radius: 15%;
+}
 footer {
-  margin-top: 5%;
+  margin-top: 10%;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
