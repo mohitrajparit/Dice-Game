@@ -13,40 +13,40 @@ else{
 }
 
 if(rnd1==1){
-    document.querySelector(".img1").src="images/dice1.png";
+    document.querySelector(".img1").src="dice1.png";
 }
 else if(rnd1==2){
-    document.querySelector(".img1").src="images/dice2.png";
+    document.querySelector(".img1").src="dice2.png";
 }
 else if(rnd1==3){
-    document.querySelector(".img1").src="images/dice3.png";
+    document.querySelector(".img1").src="dice3.png";
 }
 else if(rnd1==4){
-    document.querySelector(".img1").src="images/dice4.png";
+    document.querySelector(".img1").src="dice4.png";
 }
 else if(rnd1==5){
-    document.querySelector(".img1").src="images/dice5.png";
+    document.querySelector(".img1").src="dice5.png";
 }
 else{
-    document.querySelector(".img1").src="images/dice6.png";
+    document.querySelector(".img1").src="dice6.png";
 }
 
 if(rnd2==1){
-    document.querySelector(".img2").src="images/dice1.png";
+    document.querySelector(".img2").src="dice1.png";
 }
 else if(rnd2==2){
-    document.querySelector(".img2").src="images/dice2.png";
+    document.querySelector(".img2").src="dice2.png";
 }
 else if(rnd2==3){
-    document.querySelector(".img2").src="images/dice3.png";
+    document.querySelector(".img2").src="dice3.png";
 }
 else if(rnd2==4){
-    document.querySelector(".img2").src="images/dice4.png";
+    document.querySelector(".img2").src="dice4.png";
 }
 else if(rnd2==5){
-    document.querySelector(".img2").src="images/dice5.png";
+    document.querySelector(".img2").src="dice5.png";
 }
 else{
-    document.querySelector(".img2").src="images/dice6.png";
+    document.querySelector(".img2").src="dice6.png";
 }
 
