@@ -50,3 +50,7 @@ else{
     document.querySelector(".img2").src="dice6.png";
 }
 
+function refreshPage(){
+    window.location.reload();
+}
+
