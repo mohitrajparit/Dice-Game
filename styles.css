@@ -40,12 +40,12 @@ img {
   font-weight: bolder;
   background-color: rgb(75, 73, 73);
   position: absolute;
-  left: 46%;
-  font-size: 1.2rem;
+  left: 40%;
+  font-size: 1.8rem;
   border-radius: 15%;
 }
 footer {
-  margin-top: 5%;
+  margin-top: 10%;
   color: #EEEEEE;
   text-align: center;
   font-family: 'Indie Flower', cursive;
